@@ -6,7 +6,7 @@
 
 🚀 Atualmente me aperfeiçoando em Java, Spring Boot, Front-End com React  
 
-📫 Entre em contato comigo: [lumarasaad@gmail.com] | [] | [Outras redes ou portfólio]
+📫 Entre em contato comigo: [lumarasaad@gmail.com] | [https://www.linkedin.com/in/luciana-mara-silva-a3770b63/] | [Outras redes ou portfólio]
 
 ---
 
