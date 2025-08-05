@@ -4,6 +4,4 @@
 
 💼Grande experiência em Desenvolvimento de Software de Gestão Empresarial
 
-🚀 Atualmente me aperfeiçoando em Java, Spring Boot, Front-End com React  
-
-
+🚀 Atualmente me aperfeiçoando Backend, Java, Spring Boot
