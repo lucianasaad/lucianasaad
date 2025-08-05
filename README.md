@@ -1,12 +1,10 @@
 ## Luciana Mara da Silva Saad
 
-🎓Formada em Ciências da Computação em 1998 no Centro Universitário do Triângulo
+🎓Formação em Ciências da Computação no Centro Universitário do Triângulo
 
 💼Grande experiência em Desenvolvimento de Software de Gestão Empresarial
 
 🚀 Atualmente me aperfeiçoando em Java, Spring Boot, Front-End com React  
-
-💡 Objetivo: Usar tecnologia para facilitar o dia a dia de pais e alunos  
 
 📫 Entre em contato comigo: [lumarasaad@gmail.com] | [] | [Outras redes ou portfólio]
 
