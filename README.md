@@ -2,6 +2,6 @@
 
 🎓Formação em Ciências da Computação no Centro Universitário do Triângulo
 
-💼Grande experiência em Desenvolvimento de Software de Gestão Empresarial
+💼Experiência em Desenvolvimento de Software de Gestão Empresarial
 
 🚀 Atualmente estudando Backend, Java, Spring Boot
